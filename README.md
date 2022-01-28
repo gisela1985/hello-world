@@ -1,2 +1,2 @@
-# hello-world
+# Read.me
 This is Lab 1 - Part B
